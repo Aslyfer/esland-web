@@ -125,3 +125,9 @@ pnpm dev
 - [ ] Afinar el responsive
 - [ ] Las páginas extra
 - [ ] Añadir el efecto hover sobre los enlaces de Nav Bar
+
+---
+
+Quisiera compartir que este proyecto fue desarrollado siguiendo el increíble tutorial de Midudev, quien es sin duda una autoridad en el mundo del desarrollo. Su enfoque claro y sus trucos magistrales, tanto en sus videos como en sus directos, fueron la inspiración principal para emprender este proyecto. Agradezco a Midudev por compartir su conocimiento de manera tan accesible y apasionada. Su habilidad para explicar conceptos complejos y su enfoque práctico han sido fundamentales en mi aprendizaje. ¡Midudev es verdaderamente un crack en el arte de la programación!
+
+--- 
